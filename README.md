@@ -21,7 +21,21 @@ Annual Order Volume
 2018: Data incomplete (January Only)
 ![image](https://github.com/user-attachments/assets/4fa0a1f8-70a3-45f4-8ee5-34919021fb40)
 
-![image](https://github.com/user-attachments/assets/b67e1e36-20a3-426f-aa52-86671f33b708)
+# Orders Dashboard  
+**Power BI Dashboard** for analyzing order data across markets, departments, and years.  
+
+## Features  
+- **Dynamic Filters**: Toggle between Total Orders, Sales, Profit, and Profit Margin.  
+- **Market Segmentation**: Drill down by region (Africa, Europe, LATAM, etc.).  
+- **Department Rankings**: Fan Shop and Apparel dominate sales.  
+- **Yearly Trends**: Profit margins peaked in 2015 (11.17%).  
+
+## How to Use  
+1. Select a **Market** to filter data.  
+2. Use the **parameter slicer** to switch between metrics.  
+3. Hover over visuals for detailed insights.  
+
+![Dashboard Preview](link_to_screenshot.png)  
 
 
 
