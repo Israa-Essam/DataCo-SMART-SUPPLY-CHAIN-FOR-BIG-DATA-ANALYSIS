@@ -1,17 +1,25 @@
-# DataCo-SMART-SUPPLY-CHAIN-FOR-BIG-DATA-ANALYSIS
-Over View
+# 📊 DATACO. Supply Chain Analytics
 
-Power BI dashboard analyzing order performance, customer distribution, and market efficiency across global supply chains.
-Global Performance:
-Total Orders	66K	
-Total Sales	$35.214M	& Cancelled Sales	$1.57M	4.27% of total
-Total Profit	$3.806M	10.81% margin
-Losses (Negative Profit)	-$3.71M	49.35% of unprofitable orders
-Market Coverage -
-5 Primary Markets: Africa, Europe, LATAM, Pacific Asia, USCA
-164 Order Countries
-11 Departments (e.g., Apparel, Technology)
-51 Product Categories | 118 Unique Products
+## **Project Overview**
+Interactive Power BI dashboards analyzing order fulfillment, customer segmentation, and market performance for DATACO.'s global supply chain.
+
+**Key Features**:
+- Dynamic parameter controls (e.g., market filters, discount rate adjustments)
+- Profitability analysis with cost/discount simulations
+- Geo-mapping of order distribution and shipping efficiency
+
+## **Dashboards**
+| Dashboard | Purpose | Key Metrics |
+|-----------|---------|-------------|
+| [Orders Overview](Dashboards/1_Orders_Overview.pbix) | High-level order performance | Total Orders (66K), Profit Margin (10.81%) |
+| [Customer Analytics](Dashboards/2_Customer_Analytics.pbix) | B2B intermediary tracking | Retention Rate, CLV, Segment Profitability |
+| [Market Performance](Dashboards/3_Market_Performance.pbix) | Regional analysis | Orders by Market, Shipping Cost per Region |
+| [Shipping Efficiency](Dashboards/4_Shipping_Efficiency.pbix) | Logistics optimization | On-Time Delivery %, Cancellation Reasons |
+
+## **How to Use**
+1. **Clone this repo**
+   ```bash
+   git clone https://github.com/yourusername/DATACO-Supply-Chain-Analytics.git
 
 📈 Trends & Patterns
 Annual Order Volume
