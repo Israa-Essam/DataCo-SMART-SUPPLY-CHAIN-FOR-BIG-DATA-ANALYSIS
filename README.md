@@ -2,6 +2,54 @@
 
 ## **Project Overview**
 Interactive Power BI dashboards analyzing order fulfillment, customer segmentation, and market performance for DATACO.'s global supply chain.
+# 🌐 Supply Chain E-Commerce Process Flow Dashboard
+
+**Interactive Power BI dashboard** visualizing the end-to-end supply chain workflow from order receipt to delivery, with dynamic bookmarks for seamless navigation.
+# 🌐 Supply Chain E-Commerce Process Flow Dashboard
+
+**Interactive Power BI dashboard** visualizing the end-to-end supply chain workflow from order receipt to delivery, with dynamic bookmarks for seamless navigation.
+
+![Process Flow Dashboard](https://i.imgur.com/example_screenshot.png)  
+*Note: Replace with actual screenshot*
+
+---
+### **1. Process Flow Visualization**
+- **4 Key Stages** with KPI summaries:
+  1. **Order**  
+     - Total Orders: 66K  
+  2. **Customer (B2B)**  
+     - Segments: Consumer (55%), Corporate (30%), Home Office (15%)
+  3. **Market**  
+     - Top Market: Europe (33.3 % of orders)
+  4. **Shipping**  
+     - On-Time Delivery: 55%  
+
+### **2. Interactive Bookmarks**
+- One-click navigation between stages:  
+  ```markdown
+  [Order Stage] ➔ [Customer Stage] ➔ [Market Stage] ➔ [Shipping Stage]
+![Process Flow Dashboard](https://i.imgur.com/example_screenshot.png)  
+*Note: Replace with actual screenshot*
+
+---
+
+## **Dashboard Features**
+### **1. Process Flow Visualization**
+- **4 Key Stages** with KPI summaries:
+  1. **Order**  
+     - Total Orders: 66K  
+     - Avg. Processing Time: 2.3 days
+  2. **Customer (B2B)**  
+     - Segments: Consumer (55%), Corporate (30%), Home Office (15%)
+  3. **Market**  
+     - Top Market: USCA (38% of orders)
+  4. **Shipping**  
+     - On-Time Delivery: 89%  
+
+### **2. Interactive Bookmarks**
+- One-click navigation between stages:  
+  ```markdown
+  [Order Stage] ➔ [Customer Stage] ➔ [Market Stage] ➔ [Shipping Stage]
 
 **Key Features**:
 - Dynamic parameter controls (e.g., market filters, discount rate adjustments)
@@ -11,15 +59,17 @@ Interactive Power BI dashboards analyzing order fulfillment, customer segmentati
 ## **Dashboards**
 | Dashboard | Purpose | Key Metrics |
 |-----------|---------|-------------|
-| [Orders Overview](Dashboards/1_Orders_Overview.pbix) | High-level order performance | Total Orders (66K), Profit Margin (10.81%) |
-| [Customer Analytics](Dashboards/2_Customer_Analytics.pbix) | B2B intermediary tracking | Retention Rate, CLV, Segment Profitability |
-| [Market Performance](Dashboards/3_Market_Performance.pbix) | Regional analysis | Orders by Market, Shipping Cost per Region |
-| [Shipping Efficiency](Dashboards/4_Shipping_Efficiency.pbix) | Logistics optimization | On-Time Delivery %, Cancellation Reasons |
+| [Overview](Dashboards/1_Overview.pbix) | High-level order performance | Total CST (21K), Market Places (5) |
+| [Orders](Dashboards/2_Orders.pbix) | High-level order performance | Total Orders (66K), Profit Margin (10.81%) |
+| [Customer Analytics](Dashboards/3_Customer_Analytics.pbix) | B2B intermediary tracking | Retention Rate, CLV, Segment Profitability |
+| [Market Performance](Dashboards/4_Market_Performance.pbix) | Regional analysis | Orders by Market, Shipping Cost per Region |
+| [Shipping Efficiency](Dashboards/5_Shipping_Efficiency.pbix) | Logistics optimization | On-Time Delivery %, Cancellation Reasons |
+| [Discount Problem Solving](Dashboards/6_Discount.pbix) | Discount Overcome | Parameter Adjustment, Negative Profit / Adjusted |
 
 ## **How to Use**
 1. **Clone this repo**
-   ```bash
-   git clone https://github.com/yourusername/DATACO-Supply-Chain-Analytics.git
+ 
+  https://github.com/Israa-Essam/DataCo-SMART-SUPPLY-CHAIN-FOR-BIG-DATA-ANALYSIS
 
 📈 Trends & Patterns
 Annual Order Volume
@@ -27,23 +77,169 @@ Annual Order Volume
 2016: 21K orders
 2017: 22K orders (Peak year)
 2018: Data incomplete (January Only)
-![image](https://github.com/user-attachments/assets/4fa0a1f8-70a3-45f4-8ee5-34919021fb40)
+
+# 📊 DATACO Supply Chain Overview Dashboard
+
+![image](https://github.com/user-attachments/assets/dcc694f5-d5ae-42f5-b1d0-147bfb30a05a)
+
+## 📌 Key Metrics
+
+| Metric                | Value       | Detail                     |
+|-----------------------|-------------|----------------------------|
+| **Total Orders**      | 66K         |                            |
+| **Total Sales**       | $35.214M    |                            |
+| **Cancelled Sales**   | $1.57M      | 4.27% of total sales       |
+| **Total Profit**      | $3.806M     | 10.81% margin              |
+| **Negative Profit**   | -$3.71M     | Affects 49.35% of orders   |
+
+## 🌐 Global Coverage
+
+```mermaid
+pie
+    Market Sales
+    "Africa" : 2.2 M
+    "Europe" : 10.4 M
+    "LATAM" : 9.8 M
+    "Pacific Asia" : 7.9 M
+    "USCA" : 4.8 M
+
+🚨 Critical Alert
+
+- 49.35% of orders have negative profit margins!
++ Use discount parameter to optimize profitability
 
 # Orders Dashboard  
 **Power BI Dashboard** for analyzing order data across markets, departments, and years.  
+![image](https://github.com/user-attachments/assets/92bf9896-f644-449d-82c2-df8a46bfe5fe)
 
 ## Features  
 - **Dynamic Filters**: Toggle between Total Orders, Sales, Profit, and Profit Margin.  
 - **Market Segmentation**: Drill down by region (Africa, Europe, LATAM, etc.).  
 - **Department Rankings**: Fan Shop and Apparel dominate sales.  
-- **Yearly Trends**: Profit margins peaked in 2015 (11.17%).  
+- **Yearly Trends**: Profit margins peaked in 2015 (11.17%).
+- **Top Products**: For each market top selling products.
 
 ## How to Use  
 1. Select a **Market** to filter data.  
-2. Use the **parameter slicer** to switch between metrics.  
+2. Use the **parameter slicer** to switch between metrics. (Sales-Profit-Profit Margin-Orders) 
 3. Hover over visuals for detailed insights.  
 
-![Dashboard Preview](link_to_screenshot.png)  
+ # Customer Dashboard  
+**Power BI Dashboard** for analyzing B2B/B2C customer segments and transactional behavior.  
+
+## Features  
+- **Segment Metrics**: Compare Consumers (18.3M), Corporate (10.7M), and Home Office (6.2M).
+- **Customer Churn**: Retention Rate (59.16%), 2015 (92.16), 2016 (92%), and 2017 (53.07%). 
+- **Regional Focus**: Puerto Rico (38.41%) vs. EE.UU. (61.59%).  
+- **Customer Cards**: Drill into individual metrics like AOV, CLV, and lifespan.  
+- **Payment Trends**: Debit/Transfer dominate order volume.  
+
+## How to Use  
+1. Filter by **Market** or/and **Customer Segment**.  
+2. Toggle the **parameter slicer** to switch between sales, profit, and orders.  
+3. Click on customer names for detailed profiles usinf the ID slicer.
+
+![image](https://github.com/user-attachments/assets/a88e4382-7d0c-49c4-9515-5673e31617a4)
+
+# 🌍 DATACO Market Performance Dashboard
+
+![image](https://github.com/user-attachments/assets/80cd81ea-37c7-4cc3-bc8a-9b4759fda87d)
 
 
+## 📊 Key Metrics
+```mermaid
+flowchart LR
+    Africa [Total Shipped] --> B[4K Orders] to 49 Countries
+    Africa --> C[165 Canceled]
+    Africa --> D[45.76% Products Sold]
+ 🌐 Market Distribution
+pie
+    title Orders by Market
+    "Europe" : 10200
+    "LATAM" : 9300
+    "Pacific Asia" : 8580
+    "USCA" : 4700
+    "Africa" : 3850
+🚚 Delivery Performance
+bar
+    title On-Time vs Late Deliveries
+    x-axis Markets
+    y-axis Orders
+    series "Late"
+        Africa: 3850
+        Europe: 10200
+    series "On Time"
+        Africa: 8400
+        Europe: 9180
+🔍 Regional Breakdown
+Africa Performance
+flowchart TD
+    A[North Africa] --> B[Primary Hub]
+    C[Other Africa] --> D[Emerging Markets]
 
+# 🚚 DATACO Shipping Mode Performance Dashboard
+
+![image](https://github.com/user-attachments/assets/d45590c1-9fa7-451e-bfb7-7df2451d6046)
+
+
+## 📊 Shipping Mode Overview
+```mermaid
+pie
+    title Shipping Mode Distribution
+    "Standard Class" : 59.81%
+    "Second Class" : 19.43%
+    "First Class" : 15.33%
+    "Same Day" : 5.43%
+Optimization Recommendations:
+First Class :
+95% of the Deliveries are late, Scheduled shipping time = 1 day, While the real days are 2.
+Recommendations - Adjust the scheduled to 2 Days.
+
+Second Class: 
+80% late deliveries. Regions almost have the same late percentage.
+Recommendations - Adjust the scheduled todays to be 3-4 days.
+To achieve more than 90% of the orders on time
+
+Same Day Delivery :
+About 46% - 51% of the orders are late, only for average of half a day.
+Recommendations - Needs to be adjusted for 24 hours delivery. and not the same for every region.
+LATAM is the top in late deliveries.  (In the Caribbean & South America regions)  scored the top late %. 
+Southern Africa region in Africa has the top % 
+West of USA region in the USCA
+The rest of the regions scored about maximum 48% of late deliveries.
+
+Standard Class:
+The largest number of orders are shipped in this mode 59.8%.
+Therefore it needs more effort to fulfill on time as 38% are late.
+
+# 💰 DATACO Customer Profitability Dashboard
+
+![image](https://github.com/user-attachments/assets/da03b118-7c57-4268-8c24-b05511b53c21)
+
+
+## 🔄 Dynamic Discount Optimization
+```mermaid
+flowchart LR
+    A[Product] --> B{Profit < 0?}
+    B -->|Yes| C[Adjust Discount]
+    B -->|No| D[Maintain Rate]
+    C --> E[Recalculate Profit]
+📊 Customer Segmentation
+
+pie
+    title Profit Segments
+    "High-Value (1500-2442)" 
+    "Profitable (500-1500)" 
+    "Neutral    (0-500)" 
+    "Moderate Loss (-2000-0)"
+    "High Loss (<-2000)"
+
+📈 Optimization Results
+
+![image](https://github.com/user-attachments/assets/d891628d-fc84-438c-b3ef-699dfb67ebcf)
+
+
+This example shows:
+1. Interactive discount adjustment for specific product (Sole E35 Eliptical)
+2. Visual feedback on profit impact to overcome the -ve profit the discount needs to decrease by 0.27%
+3. Use Slicer per year for further adjustment, and sort by lowest profit for higher products loss.
