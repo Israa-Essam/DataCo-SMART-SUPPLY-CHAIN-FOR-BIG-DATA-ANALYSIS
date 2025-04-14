@@ -23,7 +23,8 @@ Interactive Power BI dashboards analyzing order fulfillment, customer segmentati
 
   [Order Stage] ➔ [Customer Stage] ➔ [Market Stage] ➔ [Shipping Stage]
 
-![image](https://github.com/user-attachments/assets/4e185e7a-6baa-4340-b6e5-9b913be0c691)
+![image](https://github.com/user-attachments/assets/1f51c34e-e1e1-45c2-b3fe-9abf20eb8a50)
+
 
 ---
 
