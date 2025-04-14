@@ -53,11 +53,11 @@ Interactive Power BI dashboards analyzing order fulfillment, customer segmentati
 ## **Dashboards**
 | Dashboard | Purpose | Key Metrics |
 |-----------|---------|-------------|
-| [Overview](Dashboards/1_Overview.pbix) | High-level order performance | Total CST (21K), Market Places (5) |
+| [Overview](Dashboards/1_Overview.pbix) | High-level order performance | Total CST (21K), Market Places (5), Sales (35.214M) |
 | [Orders](Dashboards/2_Orders.pbix) | High-level order performance | Total Orders (66K), Profit Margin (10.81%) |
 | [Customer Analytics](Dashboards/3_Customer_Analytics.pbix) | B2B intermediary tracking | Retention Rate, CLV, Segment Profitability |
-| [Market Performance](Dashboards/4_Market_Performance.pbix) | Regional analysis | Orders by Market, Shipping Cost per Region |
-| [Shipping Efficiency](Dashboards/5_Shipping_Efficiency.pbix) | Logistics optimization | On-Time Delivery %, Cancellation Reasons |
+| [Market Performance](Dashboards/4_Market_Performance.pbix) | Regional analysis | Orders & Sales by Market, Sales % by Region |
+| [Shipping Efficiency](Dashboards/5_Shipping_Efficiency.pbix) | Logistics optimization | On-Time Delivery %, Late Dlivery%, Orders Fulfilment |
 | [Discount Problem Solving](Dashboards/6_Discount.pbix) | Discount Overcome | Parameter Adjustment, Negative Profit / Adjusted |
 
 ## **How to Use**
