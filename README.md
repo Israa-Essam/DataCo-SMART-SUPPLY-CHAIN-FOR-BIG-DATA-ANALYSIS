@@ -208,18 +208,16 @@ Therefore it needs more effort to fulfill on time as 38% are late.
 
 
 
-
 ## 🔄 Dynamic Discount Optimization
-```mermaid
-flowchart LR
+
+Flowchart LR
     A[Product] --> B{Profit < 0?}
     B -->|Yes| C[Adjust Discount]
     B -->|No| D[Maintain Rate]
     C --> E[Recalculate Profit]
 📊 Customer Segmentation
 
-pie
-    title Profit Segments
+Customer Profit Segments
     "High-Value (1500-2442)" 
     "Profitable (500-1500)" 
     "Neutral    (0-500)" 
