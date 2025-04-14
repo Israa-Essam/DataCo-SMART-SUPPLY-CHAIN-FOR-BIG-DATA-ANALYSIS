@@ -3,14 +3,8 @@
 ## **Project Overview**
 Interactive Power BI dashboards analyzing order fulfillment, customer segmentation, and market performance for DATACO.'s global supply chain.
 # 🌐 Supply Chain E-Commerce Process Flow Dashboard
-
-**Interactive Power BI dashboard** visualizing the end-to-end supply chain workflow from order receipt to delivery, with dynamic bookmarks for seamless navigation.
-# 🌐 Supply Chain E-Commerce Process Flow Dashboard
-
 **Interactive Power BI dashboard** visualizing the end-to-end supply chain workflow from order receipt to delivery, with dynamic bookmarks for seamless navigation.
 
-![Process Flow Dashboard](https://i.imgur.com/example_screenshot.png)  
-*Note: Replace with actual screenshot*
 
 ---
 ### **1. Process Flow Visualization**
@@ -26,11 +20,10 @@ Interactive Power BI dashboards analyzing order fulfillment, customer segmentati
 
 ### **2. Interactive Bookmarks**
 - One-click navigation between stages:  
-  ```markdown
-  [Order Stage] ➔ [Customer Stage] ➔ [Market Stage] ➔ [Shipping Stage]
-![Process Flow Dashboard](https://i.imgur.com/example_screenshot.png)  
-*Note: Replace with actual screenshot*
 
+  [Order Stage] ➔ [Customer Stage] ➔ [Market Stage] ➔ [Shipping Stage]
+
+![image](https://github.com/user-attachments/assets/559e7a09-b5d1-460c-a186-e3bd4454b69b)
 ---
 
 ## **Dashboard Features**
@@ -94,8 +87,6 @@ Annual Order Volume
 
 ## 🌐 Global Coverage
 
-```mermaid
-pie
     Market Sales
     "Africa" : 2.2 M
     "Europe" : 10.4 M
@@ -110,7 +101,8 @@ pie
 
 # Orders Dashboard  
 **Power BI Dashboard** for analyzing order data across markets, departments, and years.  
-![image](https://github.com/user-attachments/assets/92bf9896-f644-449d-82c2-df8a46bfe5fe)
+![image](https://github.com/user-attachments/assets/6c4654ce-2ab4-4fad-8059-a605a0e82339)
+
 
 ## Features  
 - **Dynamic Filters**: Toggle between Total Orders, Sales, Profit, and Profit Margin.  
@@ -139,11 +131,11 @@ pie
 2. Toggle the **parameter slicer** to switch between sales, profit, and orders.  
 3. Click on customer names for detailed profiles usinf the ID slicer.
 
-![image](https://github.com/user-attachments/assets/a88e4382-7d0c-49c4-9515-5673e31617a4)
 
 # 🌍 DATACO Market Performance Dashboard
 
-![image](https://github.com/user-attachments/assets/80cd81ea-37c7-4cc3-bc8a-9b4759fda87d)
+![image](https://github.com/user-attachments/assets/94054c56-3514-475f-818d-f63546a45018)
+
 
 
 ## 📊 Key Metrics
@@ -173,19 +165,18 @@ bar
         Europe: 9180
 🔍 Regional Breakdown
 Africa Performance
-flowchart TD
-    A[North Africa] --> B[Primary Hub]
-    C[Other Africa] --> D[Emerging Markets]
+
+    [North Africa] --> [Primary Hub]
+    [Other Africa] --> [Emerging Markets]
 
 # 🚚 DATACO Shipping Mode Performance Dashboard
 
-![image](https://github.com/user-attachments/assets/d45590c1-9fa7-451e-bfb7-7df2451d6046)
+![image](https://github.com/user-attachments/assets/9516f1a3-bd3d-4957-990d-da06047ceedb)
+
 
 
 ## 📊 Shipping Mode Overview
-```mermaid
-pie
-    title Shipping Mode Distribution
+   Shipping Mode Distribution
     "Standard Class" : 59.81%
     "Second Class" : 19.43%
     "First Class" : 15.33%
@@ -214,7 +205,8 @@ Therefore it needs more effort to fulfill on time as 38% are late.
 
 # 💰 DATACO Customer Profitability Dashboard
 
-![image](https://github.com/user-attachments/assets/da03b118-7c57-4268-8c24-b05511b53c21)
+![image](https://github.com/user-attachments/assets/d4e88b7a-ef4d-4a5d-be65-c01b1238f956)
+
 
 
 ## 🔄 Dynamic Discount Optimization
@@ -235,9 +227,6 @@ pie
     "High Loss (<-2000)"
 
 📈 Optimization Results
-
-![image](https://github.com/user-attachments/assets/d891628d-fc84-438c-b3ef-699dfb67ebcf)
-
 
 This example shows:
 1. Interactive discount adjustment for specific product (Sole E35 Eliptical)
