@@ -139,30 +139,26 @@ Annual Order Volume
 
 
 ## 📊 Key Metrics
-```mermaid
-flowchart LR
-    Africa [Total Shipped] --> B[4K Orders] to 49 Countries
-    Africa --> C[165 Canceled]
-    Africa --> D[45.76% Products Sold]
+    Africa [Total Shipped] --> [4K Orders] to 49 Countries
+    Africa --> [165 Canceled Orders]
+    Africa --> [45.76% Products Sold]
+    Africa --> [21.74% Order's Region %]
  🌐 Market Distribution
-pie
-    title Orders by Market
-    "Europe" : 10200
-    "LATAM" : 9300
-    "Pacific Asia" : 8580
-    "USCA" : 4700
-    "Africa" : 3850
+    total Orders by Market
+    "Europe" : 18.56K
+    "LATAM" : 17.18K
+    "Pacific Asia" : 17.58K
+    "USCA" : 8.58K
+    "Africa" : 3.58K
 🚚 Delivery Performance
-bar
-    title On-Time vs Late Deliveries
+
+ On-Time vs Late Deliveries
     x-axis Markets
     y-axis Orders
-    series "Late"
-        Africa: 3850
-        Europe: 10200
-    series "On Time"
-        Africa: 8400
-        Europe: 9180
+    "Late"
+        Europe: 10.2K
+    "On Time"
+        Europe: 8.4K
 🔍 Regional Breakdown
 Africa Performance
 
@@ -171,7 +167,9 @@ Africa Performance
 
 # 🚚 DATACO Shipping Mode Performance Dashboard
 
-![image](https://github.com/user-attachments/assets/9516f1a3-bd3d-4957-990d-da06047ceedb)
+
+![image](https://github.com/user-attachments/assets/b7a3a55d-762f-4282-beb0-caef6fdfcb53)
+
 
 
 
@@ -205,7 +203,9 @@ Therefore it needs more effort to fulfill on time as 38% are late.
 
 # 💰 DATACO Customer Profitability Dashboard
 
-![image](https://github.com/user-attachments/assets/d4e88b7a-ef4d-4a5d-be65-c01b1238f956)
+
+![image](https://github.com/user-attachments/assets/ac284392-c524-4197-8050-6d970cb4906c)
+
 
 
 
