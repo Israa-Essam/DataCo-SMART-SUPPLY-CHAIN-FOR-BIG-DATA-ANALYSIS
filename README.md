@@ -16,7 +16,7 @@ Interactive Power BI dashboards analyzing order fulfillment, customer segmentati
   3. **Market**  
      - Top Market: Europe (33.3 % of orders)
   4. **Shipping**  
-     - On-Time Delivery: 55%  
+     - On-Time Delivery: 45%  
 
 ### **2. Interactive Bookmarks**
 - One-click navigation between stages:  
