@@ -203,7 +203,7 @@ Standard Class:
 The largest number of orders are shipped in this mode 59.8%.
 Therefore it needs more effort to fulfill on time as 38% are late.
 
-# 💰 DATACO Customer Profitability Dashboard
+# 💰 DATACO Customer Profitability / Discount Adjustment Dashboard
 
 
 ![image](https://github.com/user-attachments/assets/ac284392-c524-4197-8050-6d970cb4906c)
