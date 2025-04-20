@@ -75,7 +75,8 @@ Annual Order Volume
 
 # 📊 DATACO Supply Chain Overview Dashboard
 
-![image](https://github.com/user-attachments/assets/dcc694f5-d5ae-42f5-b1d0-147bfb30a05a)
+![image](https://github.com/user-attachments/assets/2ab3e6c1-9dd5-4218-903f-28eef0ae8ce0)
+
 
 ## 📌 Key Metrics
 
@@ -85,7 +86,7 @@ Annual Order Volume
 | **Total Sales**       | $35.214M    |                            |
 | **Cancelled Sales**   | $1.57M      | 4.27% of total sales       |
 | **Total Profit**      | $3.806M     | 10.81% margin              |
-| **Negative Profit**   | -$3.71M     | Affects 49.35% of orders   |
+| **Negative Profit**   | -$3.71M     | 9.53% of Sales             |
 
 ## 🌐 Global Coverage
 
@@ -98,8 +99,9 @@ Annual Order Volume
 
 🚨 Critical Alert
 
-- 49.35% of orders have negative profit margins!
-+ Use discount parameter to optimize profitability
+- 9.53% of Sales have negative profit, Its cost is higher than the profit!
++ Use discount parameter to optimize profitability.
++ Discount dashboard to optimize the negative profitability by product using the parameter.
 
 # Orders Dashboard  
 **Power BI Dashboard** for analyzing order data across markets, departments, and years.  
@@ -136,7 +138,8 @@ Annual Order Volume
 
 # 🌍 DATACO Market Performance Dashboard
 
-![image](https://github.com/user-attachments/assets/94054c56-3514-475f-818d-f63546a45018)
+![image](https://github.com/user-attachments/assets/1e14c094-a53f-4525-81bb-84d3b7c639c1)
+
 
 
 
@@ -202,6 +205,7 @@ The rest of the regions scored about maximum 48% of late deliveries.
 Standard Class:
 The largest number of orders are shipped in this mode 59.8%.
 Therefore it needs more effort to fulfill on time as 38% are late.
+(Under each Market --- > choose the regions and countries that resulted highest late percentage, and try to improve the service in this area for better performance)
 
 # 💰 DATACO Customer Profitability / Discount Adjustment Dashboard
 
@@ -232,3 +236,5 @@ This example shows:
 1. Interactive discount adjustment for specific product (Sole E35 Eliptical)
 2. Visual feedback on profit impact to overcome the -ve profit the discount needs to decrease by 0.27%
 3. Use Slicer per year for further adjustment, and sort by lowest profit for higher products loss.
+
+The last 2 slides contains the detailed problem solving of the 2 main issues according to the dataset and an how to improve the performance and solve it.
