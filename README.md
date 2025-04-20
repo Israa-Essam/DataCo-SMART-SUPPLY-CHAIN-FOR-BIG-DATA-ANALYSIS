@@ -210,7 +210,9 @@ Therefore it needs more effort to fulfill on time as 38% are late.
 # 💰 DATACO Customer Profitability / Discount Adjustment Dashboard
 
 
-![image](https://github.com/user-attachments/assets/ac284392-c524-4197-8050-6d970cb4906c)
+![image](https://github.com/user-attachments/assets/575d2476-45b2-4a99-b6b0-aa5d869dd3c6)
+
+
 
 
 
@@ -230,9 +232,11 @@ Customer Profit Segments
     "Moderate Loss (-2000-0)"
     "High Loss (<-2000)"
     For each customer loosing we could select the ID & use the parameter to reduce the discount and overcome the negative profit.
+    First Sale ranked customer results a moderate -ve loss, after optimizing the total discount for this CST by 0.81 %, the -ve profit was turned to +ve.
 
 📈 Optimization Results
-![image](https://github.com/user-attachments/assets/a867d21f-47d0-4786-8fe2-be4900f3f1d0)
+![image](https://github.com/user-attachments/assets/17cf2c9f-ff12-4448-b30c-db7f7d4acd4e)
+
 
 
 This example shows:
