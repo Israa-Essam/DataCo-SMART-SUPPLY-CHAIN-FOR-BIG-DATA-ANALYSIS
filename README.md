@@ -229,11 +229,14 @@ Customer Profit Segments
     "Neutral    (0-500)" 
     "Moderate Loss (-2000-0)"
     "High Loss (<-2000)"
+    For each customer loosing we could select the ID & use the parameter to reduce the discount and overcome the negative profit.
 
 📈 Optimization Results
+![image](https://github.com/user-attachments/assets/a867d21f-47d0-4786-8fe2-be4900f3f1d0)
+
 
 This example shows:
-1. Interactive discount adjustment for specific product (Sole E35 Eliptical)
+1. Interactive discount adjustment for specific product (Sole E35 Eliptical).
 2. Visual feedback on profit impact to overcome the -ve profit the discount needs to decrease by 0.27%
 3. Use Slicer per year for further adjustment, and sort by lowest profit for higher products loss.
 
