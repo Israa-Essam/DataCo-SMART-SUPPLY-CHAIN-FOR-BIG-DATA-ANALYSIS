@@ -75,7 +75,8 @@ Annual Order Volume
 
 # 📊 DATACO Supply Chain Overview Dashboard
 
-![image](https://github.com/user-attachments/assets/2ab3e6c1-9dd5-4218-903f-28eef0ae8ce0)
+![image](https://github.com/user-attachments/assets/f70c51aa-7d0a-424b-b4cf-222d736b08ed)
+
 
 
 ## 📌 Key Metrics
@@ -104,8 +105,9 @@ Annual Order Volume
 + Discount dashboard to optimize the negative profitability by product using the parameter.
 
 # Orders Dashboard  
-**Power BI Dashboard** for analyzing order data across markets, departments, and years.  
-![image](https://github.com/user-attachments/assets/6c4654ce-2ab4-4fad-8059-a605a0e82339)
+**Power BI Dashboard** for analyzing order data across markets, departments, and years, forecasting 2018.  
+![image](https://github.com/user-attachments/assets/6a761927-f7b8-4535-bbe8-46f4e3a02fe4)
+
 
 
 ## Features  
@@ -122,6 +124,8 @@ Annual Order Volume
 
  # Customer Dashboard  
 **Power BI Dashboard** for analyzing B2B/B2C customer segments and transactional behavior.  
+![image](https://github.com/user-attachments/assets/a14a5d48-45c1-41c4-a089-e8b53e2bcc09)
+
 
 ## Features  
 - **Segment Metrics**: Compare Consumers (18.3M), Corporate (10.7M), and Home Office (6.2M).
@@ -138,7 +142,8 @@ Annual Order Volume
 
 # 🌍 DATACO Market Performance Dashboard
 
-![image](https://github.com/user-attachments/assets/1e14c094-a53f-4525-81bb-84d3b7c639c1)
+![image](https://github.com/user-attachments/assets/5a3cb094-ca88-4c19-912d-6f69e1d027e9)
+
 
 
 
