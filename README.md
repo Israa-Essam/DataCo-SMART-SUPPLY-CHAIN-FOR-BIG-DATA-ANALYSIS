@@ -2,6 +2,10 @@
 
 ## **Project Overview**
 Interactive Power BI dashboards analyzing order fulfillment, customer segmentation, and market performance for DATACO.'s global supply chain.
+
+# 🎯**Project Goal**
+The primary goal of this project is to perform a comprehensive analysis of an e-commerce supply chain dataset using Power BI. This involves uncovering key insights related to customer behavior, order trends, shipping performance, and profit dynamics. By leveraging interactive dashboards, dynamic parameters, and advanced DAX measures, the project aims to support data-driven decision-making and optimize business performance across different markets, customer segments, and shipping modes.
+
 # 🌐 Supply Chain E-Commerce Process Flow Dashboard
 **Interactive Power BI dashboard** visualizing the end-to-end supply chain workflow from order receipt to delivery, with dynamic bookmarks for seamless navigation.
 
